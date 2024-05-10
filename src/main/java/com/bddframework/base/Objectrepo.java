@@ -14,7 +14,7 @@ import com.bddframework.util.Log4jImplementation;
 //import com.aventstack.extentreports.ExtentTest;
 
 @Listeners(com.bddframework.util.Log4jImplementation.class)
-public class Objectrepo{
+public class ObjectRepo{
 	public static   WebDriver driver;
 	public static   ExtentReports extent;
 	public static   ExtentTest test;

@@ -8,11 +8,11 @@ import org.testng.ITestResult;
 
 import com.aventstack.extentreports.Status;
 import com.bddframeowrk.pathconfiguration.Path;
-import com.bddframework.base.Objectrepo;
+import com.bddframework.base.ObjectRepo;
 
 import io.cucumber.java.AfterAll;
 import io.cucumber.java.BeforeAll;
-public class Log4jImplementation extends Objectrepo implements ITestListener{
+public class Log4jImplementation extends ObjectRepo implements ITestListener{
 	//extends Objectrepo implements ITestListener
 	public void onStart(ITestContext context) {
 		

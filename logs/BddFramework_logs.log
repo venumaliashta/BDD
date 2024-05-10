@@ -70,3 +70,155 @@
 [INFO ] 09-05-2024 06-31-03 PM [main] Base 35 - ---
 [INFO ] 09-05-2024 06-39-34 PM [main] Base 35 - ---
 [INFO ] 09-05-2024 06-47-12 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 08-32-59 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 09-12-02 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 09-19-07 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 09-27-15 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 09-31-14 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 09-37-00 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 09-55-12 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 10-11-35 PM [main] Base 35 - ---
+[INFO ] 09-05-2024 10-18-07 PM [main] Base 35 - ---
+[INFO ] 10-05-2024 10-07-13 AM [main] Base 35 - ---
+[INFO ] 10-05-2024 10-07-21 AM [main] Base 35 - ---
+[INFO ] 10-05-2024 10-59-02 AM [main] Base 35 - ---
+[INFO ] 10-05-2024 10-59-11 AM [main] Base 35 - ---
+[INFO ] 10-05-2024 11-16-33 AM [main] Base 35 - ---
+[INFO ] 10-05-2024 11-16-41 AM [main] Base 35 - ---
+[INFO ] 10-05-2024 12-19-16 PM [main] Base 37 - ---
+[INFO ] 10-05-2024 12-24-15 PM [main] Base 37 - ---
+[INFO ] 10-05-2024 12-35-23 PM [main] Base 37 - ---
+[INFO ] 10-05-2024 12-39-03 PM [main] Base 37 - ---
+[INFO ] 10-05-2024 12-49-55 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 12-49-57 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 12-49-57 PM [main] Base 66 - Maximize the browser window sucessfully.
+[INFO ] 10-05-2024 12-49-57 PM [main] Base 68 - After maximize the page await for 40 Sec. to load page
+[INFO ] 10-05-2024 12-49-57 PM [main] Base 70 - After PageLoad wait addded implicilty wait for 40 Sec.
+[INFO ] 10-05-2024 01-12-17 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 01-12-17 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 01-12-17 PM [main] Base 66 - Successfully maximized the browser window.
+[INFO ] 10-05-2024 01-12-17 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+[INFO ] 10-05-2024 01-12-17 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+[INFO ] 10-05-2024 01-12-18 PM [main] Utils 64 - Entered value in  input field sucessfully
+[INFO ] 10-05-2024 01-12-18 PM [main] Utils 64 - Entered value in  input field sucessfully
+[INFO ] 10-05-2024 01-15-21 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 01-15-21 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 01-15-21 PM [main] Base 66 - Successfully maximized the browser window.
+[INFO ] 10-05-2024 01-15-21 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+[INFO ] 10-05-2024 01-15-21 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+[INFO ] 10-05-2024 01-15-21 PM [main] Utils 70 - Entered value in  input field sucessfully
+[INFO ] 10-05-2024 01-15-21 PM [main] Utils 70 - Entered value in  input field sucessfully
+[INFO ] 10-05-2024 01-23-04 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 01-23-06 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 01-23-06 PM [main] Base 66 - Successfully maximized the browser window.
+[INFO ] 10-05-2024 01-23-06 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+[INFO ] 10-05-2024 01-23-06 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+[INFO ] 10-05-2024 01-23-06 PM [main] Utils 66 - Entered value in [[ChromeDriver: chrome on WINDOWS (9fcb099cb58ed9225e81887317425a6a)] -> xpath: //input[@id='user-name']] input field sucessfully
+[INFO ] 10-05-2024 01-23-06 PM [main] Utils 66 - Entered value in [[ChromeDriver: chrome on WINDOWS (9fcb099cb58ed9225e81887317425a6a)] -> xpath: //input[@id='password']] input field sucessfully
+[INFO ] 10-05-2024 01-26-17 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 01-26-17 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 01-26-17 PM [main] Base 66 - Successfully maximized the browser window.
+[INFO ] 10-05-2024 01-26-17 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+[INFO ] 10-05-2024 01-26-17 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+[INFO ] 10-05-2024 01-26-18 PM [main] Utils 68 - Entered value in [[ChromeDriver: chrome on WINDOWS (c404f555f9c61ba43ba7fa13f015b196)] -> xpath: //input[@id='user-name']] input field sucessfully
+[INFO ] 10-05-2024 01-26-18 PM [main] Utils 68 - Entered value in [[ChromeDriver: chrome on WINDOWS (c404f555f9c61ba43ba7fa13f015b196)] -> xpath: //input[@id='password']] input field sucessfully
+[INFO ] 10-05-2024 01-30-18 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 01-30-18 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 01-30-18 PM [main] Base 66 - Successfully maximized the browser window.
+[INFO ] 10-05-2024 01-30-18 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+[INFO ] 10-05-2024 01-30-18 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+[INFO ] 10-05-2024 01-30-18 PM [main] Utils 68 - Entered value in [[ChromeDriver: chrome on WINDOWS (48f6f273c8dc6c237d63ce5460e0d96c)] -> xpath: //input[@id='user-name']] input field sucessfully
+[INFO ] 10-05-2024 01-30-19 PM [main] Utils 68 - Entered value in [[ChromeDriver: chrome on WINDOWS (48f6f273c8dc6c237d63ce5460e0d96c)] -> xpath: //input[@id='password']] input field sucessfully
+[INFO ] 10-05-2024 01-32-24 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 01-32-24 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 01-32-24 PM [main] Base 66 - Successfully maximized the browser window.
+[INFO ] 10-05-2024 01-32-24 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+[INFO ] 10-05-2024 01-32-24 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+[INFO ] 10-05-2024 01-32-24 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+[INFO ] 10-05-2024 01-32-25 PM [main] Utils 66 - Entered value in Password input field sucessfully
+[INFO ] 10-05-2024 01-42-54 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+[INFO ] 10-05-2024 01-42-54 PM [main] Base 64 - SwagLabs login page successfully launched.
+[INFO ] 10-05-2024 01-42-54 PM [main] Base 66 - Successfully maximized the browser window.
+[INFO ] 10-05-2024 01-42-54 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+[INFO ] 10-05-2024 01-42-54 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+[INFO ] 10-05-2024 01-42-54 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+[INFO ] 10-05-2024 01-42-54 PM [main] Utils 66 - Entered value in Password input field sucessfully
+[ERROR] 10-05-2024 01-43-29 PM [main] Utils 78 - While clicking on Login Button Exception occuredUnable to find element with locator By.xpath: //input[@id='login-button']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: RemoteWebDriver
+[INFO ] 10-05-2024 01-52-06 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+ {FATAL=red}[INFO ] 10-05-2024 01-52-07 PM [main] Base 64 - SwagLabs login page successfully launched.
+ {FATAL=red}[INFO ] 10-05-2024 01-52-07 PM [main] Base 66 - Successfully maximized the browser window.
+ {FATAL=red}[INFO ] 10-05-2024 01-52-07 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+ {FATAL=red}[INFO ] 10-05-2024 01-52-07 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+ {FATAL=red}[INFO ] 10-05-2024 01-52-07 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+ {FATAL=red}[INFO ] 10-05-2024 01-52-08 PM [main] Utils 66 - Entered value in Password input field sucessfully
+ {FATAL=red}[ERROR] 10-05-2024 01-52-35 PM [main] Utils 78 - While clicking on Login Button Exception occured : Unable to find element with locator By.xpath: //input[@id='login-button']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: RemoteWebDriver
+ {FATAL=red}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            [INFO ] 10-05-2024 02-02-02 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+ FATAL=red[INFO ] 10-05-2024 02-02-03 PM [main] Base 64 - SwagLabs login page successfully launched.
+ FATAL=red[INFO ] 10-05-2024 02-02-03 PM [main] Base 66 - Successfully maximized the browser window.
+ FATAL=red[INFO ] 10-05-2024 02-02-03 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+ FATAL=red[INFO ] 10-05-2024 02-02-03 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+ FATAL=red[INFO ] 10-05-2024 02-02-03 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+ FATAL=red[INFO ] 10-05-2024 02-02-03 PM [main] Utils 66 - Entered value in Password input field sucessfully
+ FATAL=red[ERROR] 10-05-2024 02-02-44 PM [main] Utils 78 - While clicking on Login Button Exception occured : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='login-button']"}
+  (Session info: chrome=124.0.6367.158)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7123db3333b6c30a2f09513c21173266, findElement {using=xpath, value=//input[@id='login-button']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.158, chrome: {chromedriverVersion: 124.0.6367.155 (df4f029328b..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62930}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62930/devtoo..., se:cdpVersion: 124.0.6367.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7123db3333b6c30a2f09513c21173266
+ FATAL=red[INFO ] 10-05-2024 02-09-26 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+ [INFO ] 10-05-2024 02-09-26 PM [main] Base 64 - SwagLabs login page successfully launched.
+ [INFO ] 10-05-2024 02-09-26 PM [main] Base 66 - Successfully maximized the browser window.
+ [INFO ] 10-05-2024 02-09-26 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 10-05-2024 02-09-26 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 10-05-2024 02-09-26 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+ [INFO ] 10-05-2024 02-09-26 PM [main] Utils 66 - Entered value in Password input field sucessfully
+ [ERROR] 10-05-2024 02-09-55 PM [main] Utils 78 - While clicking on Login Button Exception occured : Unable to find element with locator By.xpath: //input[@id='login-button']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: driver.version: RemoteWebDriver
+ [INFO ] 10-05-2024 02-11-00 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+ [INFO ] 10-05-2024 02-11-00 PM [main] Base 64 - SwagLabs login page successfully launched.
+ [INFO ] 10-05-2024 02-11-00 PM [main] Base 66 - Successfully maximized the browser window.
+ [INFO ] 10-05-2024 02-11-00 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 10-05-2024 02-11-00 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 10-05-2024 02-11-01 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+ [INFO ] 10-05-2024 02-11-01 PM [main] Utils 66 - Entered value in Password input field sucessfully
+ [ERROR] 10-05-2024 02-11-42 PM [main] Utils 78 - While clicking on Login Button Exception occured : no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='login-button']"}
+  (Session info: chrome=124.0.6367.158)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5f3e27b9f0806eb6386e9e527b537409, findElement {using=xpath, value=//input[@id='login-button']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.158, chrome: {chromedriverVersion: 124.0.6367.155 (df4f029328b..., userDataDir: C:\Users\DELL\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49681}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49681/devtoo..., se:cdpVersion: 124.0.6367.158, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f3e27b9f0806eb6386e9e527b537409
+ [INFO ] 10-05-2024 02-12-52 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+ [INFO ] 10-05-2024 02-13-15 PM [main] Base 44 -     -----------  Open chrome browser  ------------  
+ [INFO ] 10-05-2024 02-13-17 PM [main] Base 64 - SwagLabs login page successfully launched.
+ [INFO ] 10-05-2024 02-13-17 PM [main] Base 66 - Successfully maximized the browser window.
+ [INFO ] 10-05-2024 02-13-17 PM [main] Base 68 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 10-05-2024 02-13-17 PM [main] Base 70 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 10-05-2024 02-13-18 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+ [INFO ] 10-05-2024 02-13-18 PM [main] Utils 66 - Entered value in Password input field sucessfully
+ [INFO ] 10-05-2024 02-13-27 PM [main] Utils 76 - Clicked sucessfully on Login Button
+ [INFO ] 10-05-2024 02-19-25 PM [main] Base 41 -     -----------  Open chrome browser  ------------  
+ [INFO ] 10-05-2024 02-19-27 PM [main] Base 60 - SwagLabs login page successfully launched.
+ [INFO ] 10-05-2024 02-19-27 PM [main] Base 62 - Successfully maximized the browser window.
+ [INFO ] 10-05-2024 02-19-27 PM [main] Base 64 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 10-05-2024 02-19-27 PM [main] Base 66 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 10-05-2024 02-19-27 PM [main] Utils 66 - Entered value in UserName input field sucessfully
+ [INFO ] 10-05-2024 02-19-27 PM [main] Utils 66 - Entered value in Password input field sucessfully
+ [INFO ] 10-05-2024 02-19-28 PM [main] Utils 76 - Clicked sucessfully on Login Button
+ 

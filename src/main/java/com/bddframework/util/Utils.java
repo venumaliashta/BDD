@@ -50,6 +50,8 @@ public class Utils extends Base {
 	public static WebElement ele;
 	public static boolean status;
 	
+	
+	
 	static StackTraceElement[] stackTraceElements = Thread.currentThread().getStackTrace();
 	static StackTraceElement caller = stackTraceElements[2]; // Assuming caller is at index 2
     static String callerClassName = caller.getClassName();
@@ -57,13 +59,27 @@ public class Utils extends Base {
     
     static String callerClassDetails = " callerClassName- "+callerClassName+" lineNumber "+lineNumber;
     
-    public void methodSendkeys(WebElement element,String value) {
+    public static void sendKeys(WebElement element,String elementName, String value) {
+
     	try {
-    	element.sendKeys(value);
-    	}catch(Exception e) {
-    		log.info("EXECPTION OCCURED"+e);
+    		element.sendKeys(value);  		
+    		log.info("Entered value in "+elementName+" input field sucessfully");
+    	}catch(Exception e){
+    		log.error("While entering the value in "+elementName+" Exception occured"+e.getMessage());
+    		e.printStackTrace();
     	}
     }
+    
+    public static void click(WebElement element,String elementName) {
+    	try {
+			element.click();
+			log.info("Clicked sucessfully on "+elementName);
+		} catch (Exception e) {
+			log.error("While clicking on "+elementName+" Exception occured : "+e.getMessage());
+			e.printStackTrace();
+		}
+    }
+  
     
     
 	public static void orangeHRMLogin() {

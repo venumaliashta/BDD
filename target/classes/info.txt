@@ -1,0 +1,29 @@
+1. Run all features = features="src/test/resources/features",
+2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------
+d: Day of the month
+MM: Month in two digits
+YY: Year in two digits
+hh: Hour in 12-hour format
+mm: Minutes
+ss: Seconds
+a: AM/PM indicator

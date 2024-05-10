@@ -7,6 +7,9 @@ import org.openqa.selenium.support.PageFactory;
 
 public class POM_AddProductIntoCart {
 
+
+	
+	
 	@FindBy(xpath="//input[@id='user-name']") private  WebElement userName;
 	@FindBy(xpath="//input[@id='password']") private  WebElement password;
 	@FindBy(xpath="//input[@id='login-button']") private  WebElement loginButton;
@@ -29,6 +32,7 @@ public POM_AddProductIntoCart(WebDriver driver) {
 	
   public  void enterUserName(String username) {
 	userName.sendKeys(username);
+
   }
   public  void enterPassword(String pass) {
 	password.sendKeys(pass);

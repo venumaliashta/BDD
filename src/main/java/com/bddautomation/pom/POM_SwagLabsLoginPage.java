@@ -5,7 +5,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class POM_SwagLabsLoginPage {
+import com.bddframework.base.ObjectRepo;
+import static com.bddframework.util.Utils.*;
+
+public class POM_SwagLabsLoginPage extends ObjectRepo{
 
 	@FindBy(xpath="//input[@id='user-name']") private  WebElement userName;
 	@FindBy(xpath="//input[@id='password']") private  WebElement password;
@@ -14,15 +17,15 @@ public class POM_SwagLabsLoginPage {
 public POM_SwagLabsLoginPage(WebDriver driver) {
 		
 		PageFactory.initElements(driver,this);
-	}
-	
+	}	
   public  void enterUserName(String username) {
-	userName.sendKeys(username);
+	sendKeys(userName,"UserName",username);
   }
   public  void enterPassword(String pass) {
-	password.sendKeys(pass);
+	sendKeys(password,"Password",pass);
   }
   public  void clickOnLoginBtn() {
-	loginButton.click();
+	click(loginButton,"Login Button");
+	
   }
 }

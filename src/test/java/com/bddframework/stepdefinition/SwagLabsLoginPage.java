@@ -37,5 +37,6 @@ public class SwagLabsLoginPage extends Base{
 	public void user_enter_click_on_login_button() {
 		swagLabsLogin.clickOnLoginBtn();
 		assertEquals(driver.getTitle(),"Swag Labs");
+		closeBrowserWindows();
 	}
 }
