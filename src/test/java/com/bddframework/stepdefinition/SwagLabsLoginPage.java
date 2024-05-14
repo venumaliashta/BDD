@@ -6,6 +6,7 @@ import java.io.IOException;
 
 import com.bddautomation.pom.POM_SwagLabsLoginPage;
 import com.bddframework.base.Base;
+import com.bddframework.base.ObjectRepo;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
@@ -13,18 +14,8 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class SwagLabsLoginPage extends Base{
-	POM_SwagLabsLoginPage swagLabsLogin;
+	POM_SwagLabsLoginPage swagLabsLogin = new POM_SwagLabsLoginPage(this.driver);
 
-	@Given("User open the Safeway login page on browser")
-	public void user_open_the_safeway_login_page_on_browser() {
-		   try {
-				driver = openBrowser();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
-			   swagLabsLogin = new POM_SwagLabsLoginPage(driver);		
-		}
-	
 	@When("User enter userName on userName field")
 	public void user_enter_user_name_on_user_name_field() {
 		swagLabsLogin.enterUserName("standard_user");
@@ -37,6 +28,6 @@ public class SwagLabsLoginPage extends Base{
 	public void user_enter_click_on_login_button() {
 		swagLabsLogin.clickOnLoginBtn();
 		assertEquals(driver.getTitle(),"Swag Labs");
-		closeBrowserWindows();
+		
 	}
 }

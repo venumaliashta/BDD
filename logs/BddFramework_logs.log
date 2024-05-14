@@ -221,4 +221,319 @@ Session ID: 5f3e27b9f0806eb6386e9e527b537409
  [INFO ] 10-05-2024 02-19-27 PM [main] Utils 66 - Entered value in UserName input field sucessfully
  [INFO ] 10-05-2024 02-19-27 PM [main] Utils 66 - Entered value in Password input field sucessfully
  [INFO ] 10-05-2024 02-19-28 PM [main] Utils 76 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 08-24-53 AM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 08-24-55 AM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 08-24-55 AM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 08-24-55 AM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 08-24-55 AM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 08-24-55 AM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 08-24-55 AM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 08-24-57 AM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 08-24-57 AM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 12-10-20 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 12-10-21 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 12-10-21 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 12-10-21 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 12-10-21 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 12-10-21 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 12-10-21 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 12-10-22 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 12-10-22 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 12-51-52 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 12-51-53 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 12-51-53 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 12-51-53 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 12-51-53 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 12-51-53 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 12-51-53 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 12-51-55 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 12-51-55 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 12-54-14 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 12-54-15 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 12-54-15 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 12-54-15 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 12-54-15 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 12-54-16 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 12-54-16 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 12-54-17 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 12-54-17 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 01-34-48 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 01-34-49 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 01-34-49 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 01-34-49 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 01-34-49 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 01-34-50 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 01-34-50 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 01-34-51 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 01-34-52 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-00-33 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-00-33 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-00-33 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-00-33 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-00-33 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-00-34 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-00-34 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-00-35 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-00-35 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-06-48 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-06-49 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-06-49 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-06-49 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-06-49 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-06-49 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-06-50 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-06-50 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-06-51 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-25-08 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-25-09 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-25-09 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-25-09 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-25-09 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-25-09 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-25-09 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-25-10 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-25-10 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-30-15 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-30-16 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-30-16 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-30-16 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-30-16 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-30-16 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-30-16 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-30-17 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-30-18 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-37-15 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-37-16 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-37-16 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-37-16 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-37-16 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-37-16 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-37-16 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-37-17 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-37-17 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-43-43 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-43-44 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-43-44 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-43-44 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-43-44 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-43-44 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-43-44 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-43-46 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-43-46 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-48-01 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-48-02 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-48-02 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-48-02 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-48-02 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-48-02 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-48-02 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-48-03 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-48-03 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-48-58 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-48-59 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-48-59 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-48-59 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-48-59 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-49-00 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-49-00 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-49-00 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-49-00 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 02-52-41 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 02-52-42 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 02-52-42 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 02-52-42 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 02-52-42 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 02-52-42 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 02-52-42 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 02-52-43 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 02-52-44 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-03-03 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-03-03 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-03-03 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-03-03 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-03-03 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-03-05 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-03-05 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-03-05 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-03-05 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-03-05 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-03-05 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 03-03-05 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 03-03-06 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 03-03-06 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-03-06 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-04-47 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-04-48 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-04-48 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-04-48 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-04-48 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-04-50 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-04-50 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-04-50 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-04-50 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-04-50 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-04-50 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 03-04-50 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 03-04-51 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 03-04-52 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-04-52 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-08-07 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-08-08 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-08-08 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-08-08 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-08-08 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-08-09 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-08-10 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-08-10 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-08-10 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-08-10 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-08-10 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 03-08-10 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 03-08-11 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 03-08-12 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-08-12 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-09-26 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-09-27 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-09-27 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-09-27 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-09-27 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-09-28 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-10-39 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-10-40 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-10-40 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-10-40 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-10-40 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-10-40 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-12-21 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-12-22 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-12-22 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-12-22 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-12-22 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-12-22 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-13-20 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-13-21 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-13-21 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-13-21 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-13-21 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-13-21 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-14-51 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-14-51 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-14-52 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-14-52 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-14-52 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-14-52 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-17-03 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-17-04 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-17-04 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-17-04 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-17-04 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [ERROR] 14-05-2024 03-17-04 PM [main] Utils 66 - While entering the value in UserName Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-17-04 PM [main] Utils 66 - While entering the value in Password Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-17-04 PM [main] Utils 76 - While clicking on Login Button Exception occured : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [INFO ] 14-05-2024 03-17-04 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-18-48 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-18-48 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-18-49 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-18-49 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-18-49 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [ERROR] 14-05-2024 03-18-49 PM [main] Utils 66 - While entering the value in UserName Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-18-49 PM [main] Utils 66 - While entering the value in Password Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-18-49 PM [main] Utils 76 - While clicking on Login Button Exception occured : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [INFO ] 14-05-2024 03-18-49 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-20-00 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-20-01 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-20-01 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-20-01 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-20-01 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [ERROR] 14-05-2024 03-20-01 PM [main] Utils 66 - While entering the value in UserName Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-20-01 PM [main] Utils 66 - While entering the value in Password Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-20-01 PM [main] Utils 76 - While clicking on Login Button Exception occured : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [INFO ] 14-05-2024 03-20-02 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-21-07 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-21-07 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-21-08 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-21-08 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-21-08 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [ERROR] 14-05-2024 03-21-08 PM [main] Utils 66 - While entering the value in UserName Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-21-08 PM [main] Utils 66 - While entering the value in Password Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-21-08 PM [main] Utils 76 - While clicking on Login Button Exception occured : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [INFO ] 14-05-2024 03-21-08 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-22-21 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-22-22 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-22-22 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-22-22 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-22-22 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [ERROR] 14-05-2024 03-22-22 PM [main] Utils 66 - While entering the value in UserName Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-22-22 PM [main] Utils 66 - While entering the value in Password Exception occuredCannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [ERROR] 14-05-2024 03-22-22 PM [main] Utils 76 - While clicking on Login Button Exception occured : Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+ [INFO ] 14-05-2024 03-22-22 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-27-21 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-27-22 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-27-22 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-27-22 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-27-22 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-27-22 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 03-27-23 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 03-27-24 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 03-27-25 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-29-38 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-29-39 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-29-39 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-29-39 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-29-39 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-29-42 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-30-11 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-30-12 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-30-12 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-30-12 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-30-12 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-30-18 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-30-38 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-30-38 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-30-38 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-30-38 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-30-38 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-30-40 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-35-33 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-35-34 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-35-34 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-35-34 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-35-34 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-35-34 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 03-35-34 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 03-35-36 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 03-35-36 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 03-44-12 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 03-44-12 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 03-44-12 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 03-44-12 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 03-44-12 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 03-44-13 PM [main] Utils 64 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 03-44-13 PM [main] Utils 64 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 03-44-13 PM [main] Utils 74 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 03-44-15 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 04-56-54 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 04-56-55 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 04-56-56 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 04-56-56 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 04-56-56 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 04-56-56 PM [main] Utils 56 - Entered value in UserName input field sucessfully
+ [INFO ] 14-05-2024 04-56-56 PM [main] Utils 256 - Screenshot captured Sucessfully Method name is Login Safeway with valid credetials
+ [INFO ] 14-05-2024 04-56-56 PM [main] Utils 56 - Entered value in Password input field sucessfully
+ [INFO ] 14-05-2024 04-56-56 PM [main] Utils 256 - Screenshot captured Sucessfully Method name is Login Safeway with valid credetials
+ [INFO ] 14-05-2024 04-56-58 PM [main] Utils 66 - Clicked sucessfully on Login Button
+ [INFO ] 14-05-2024 04-56-58 PM [main] Utils 256 - Screenshot captured Sucessfully Method name is Login Safeway with valid credetials
+ [INFO ] 14-05-2024 04-56-58 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
+ [INFO ] 14-05-2024 05-00-55 PM [main] Base 40 -     -----------  Open chrome browser  ------------  
+ [INFO ] 14-05-2024 05-00-56 PM [main] Base 56 - SwagLabs login page successfully launched.
+ [INFO ] 14-05-2024 05-00-56 PM [main] Base 58 - Successfully maximized the browser window.
+ [INFO ] 14-05-2024 05-00-56 PM [main] Base 60 - Waiting for 40 seconds after maximizing the page to load.
+ [INFO ] 14-05-2024 05-00-56 PM [main] Base 62 - Implicilty wait of 40 seconds added after the page load.
+ [INFO ] 14-05-2024 05-00-56 PM [main] Utils 56 - Entered value in UserName input field sucessfully
+ [FATAL] 14-05-2024 05-00-56 PM [main] Utils 258 - Screenshot has not captured sucessfully exception occured java.io.FileNotFoundException: C:\cucumberproject\BDDFailedScenariosStepScreeshot\   Login Safeway with valid credetials   14-05-2024 05-00-56 PM .PNG (The system cannot find the path specified)
+ [INFO ] 14-05-2024 05-00-56 PM [main] Utils 56 - Entered value in Password input field sucessfully
+ [FATAL] 14-05-2024 05-00-57 PM [main] Utils 258 - Screenshot has not captured sucessfully exception occured java.io.FileNotFoundException: C:\cucumberproject\BDDFailedScenariosStepScreeshot\   Login Safeway with valid credetials   14-05-2024 05-00-57 PM .PNG (The system cannot find the path specified)
+ [INFO ] 14-05-2024 05-00-57 PM [main] Utils 66 - Clicked sucessfully on Login Button
+ [FATAL] 14-05-2024 05-00-58 PM [main] Utils 258 - Screenshot has not captured sucessfully exception occured java.io.FileNotFoundException: C:\cucumberproject\BDDFailedScenariosStepScreeshot\   Login Safeway with valid credetials   14-05-2024 05-00-58 PM .PNG (The system cannot find the path specified)
+ [INFO ] 14-05-2024 05-00-58 PM [main] Base 68 - User Closed all the browers Windows sucessfully...
  

@@ -10,13 +10,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.annotations.Listeners;
 
 import static com.bddframework.util.Utils.*;
 
 import com.automation.base.ObjectsRepo;
 import com.bddframeowrk.pathconfiguration.Path;
-import com.bddframework.util.Log4jImplementation;
+
 
 import io.cucumber.java.After;
 import io.cucumber.java.AfterAll;
@@ -24,7 +23,7 @@ import io.cucumber.java.Before;
 import io.cucumber.java.BeforeAll;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-//@Listeners({com.bddframework.extentReport.ExtentReportImplementation.class,com.bddframework.util.Log4jImplementation.class})
+
 public class Base extends ObjectRepo{
 	public static WebDriver driver;
 	

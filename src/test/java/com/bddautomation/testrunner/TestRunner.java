@@ -8,13 +8,13 @@ import org.testng.annotations.Test;
 import io.cucumber.junit.CucumberOptions;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.TestNGCucumberRunner;
-import cucumber.api.testng.CucumberFeatureWrapper;
+//import cucumber.api.testng.CucumberFeatureWrapper;
 
 
 @CucumberOptions(features="C:\\Users\\DELL\\eclipse-workspace\\BddFramework\\src\\test\\resources\\features\\login.feature",
 glue={"com.bddframework.stepdefinition"})
 public class TestRunner extends AbstractTestNGCucumberTests {
-
+/*
 	private TestNGCucumberRunner testNGCucumberRunner;
 
     @BeforeClass(alwaysRun = true)
@@ -38,4 +38,5 @@ public class TestRunner extends AbstractTestNGCucumberTests {
             testNGCucumberRunner.finish();
         }
     }
+*/
 }

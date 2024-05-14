@@ -26,22 +26,14 @@ import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.ITestResult;
-import org.testng.annotations.Test;
 
-import com.automation.dataprovider.DataProvider_1;
-import com.automation.pathconfiguration.Path;
-import com.automation.pom.HomePage;
-import com.automation.pom.LoginPage;
+import com.bddframeowrk.pathconfiguration.Path;
 import com.bddframework.base.Base;
 
 public class Utils extends Base {
 
 	public static Actions act;
-	public static ITestResult result;
 	public static File screenshotStorePath;
-	public static LoginPage loginPage;
-	public static HomePage homePage;
 	public static WebDriverWait wait;
 	public static Select select;
 	public static JavascriptExecutor js;
@@ -49,8 +41,6 @@ public class Utils extends Base {
 	public static StringSelection selectedFile;
 	public static WebElement ele;
 	public static boolean status;
-	
-	
 	
 	static StackTraceElement[] stackTraceElements = Thread.currentThread().getStackTrace();
 	static StackTraceElement caller = stackTraceElements[2]; // Assuming caller is at index 2
@@ -82,7 +72,7 @@ public class Utils extends Base {
   
     
     
-	public static void orangeHRMLogin() {
+	/*public static void orangeHRMLogin() {
 		try {
 			loginPage = new LoginPage();
 			homePage = new HomePage();
@@ -104,8 +94,9 @@ public class Utils extends Base {
 			e.printStackTrace();
 		}
 	}
+*/
+    /*
 
-	@Test(priority = 0, dataProviderClass = DataProvider_1.class, dataProvider = "getLoginData")
 	public void userLogin(String userName, String password) {
 		try {
 			loginPage = new LoginPage();
@@ -125,7 +116,7 @@ public class Utils extends Base {
 			e.printStackTrace();
 		}
 	}
-
+*/
 	public static WebElement toBeVisible(WebElement element, int timeout) {
 		
 		try {
@@ -201,7 +192,7 @@ public class Utils extends Base {
 		
 		try {
 
-			FileInputStream file = new FileInputStream(Path.PropertiesFileconfig);
+			FileInputStream file = new FileInputStream(Path.PathConfigFile);
 			prop = new Properties();
 			prop.load(file);
 
@@ -258,7 +249,9 @@ public class Utils extends Base {
 		try {
 			File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 			screenshotStorePath = new File(
-					Path.screenShotFailedTc+"   "+ methodName +"   "+ currentDate() + " .PNG");
+					
+				Path.pathFailedStepScreenshots+"   "+methodName +"   " +  currentDate()  + " .PNG");
+
 			FileHandler.copy(src, screenshotStorePath);
 			log.info("Screenshot captured Sucessfully Method name is " + methodName);
 		} catch (Exception e) {
@@ -273,7 +266,7 @@ public class Utils extends Base {
 		try {
 			File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 			screenshotStorePath = new File(
-					Path.screenShot +"   "+featureNameForScreenshot +"   " +  currentDate()  + " .PNG");
+					Path.pathFailedStepScreenshots +"   "+featureNameForScreenshot +"   " +  currentDate()  + " .PNG");
 			FileHandler.copy(src, screenshotStorePath);
 			log.info("Screenshot captured Sucessfully :"+descriptionOfLevel);
 		} catch (Exception e) {

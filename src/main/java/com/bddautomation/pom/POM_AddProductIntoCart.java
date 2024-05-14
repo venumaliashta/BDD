@@ -1,5 +1,8 @@
 package com.bddautomation.pom;
 
+import static com.bddframework.util.Utils.click;
+import static com.bddframework.util.Utils.sendKeys;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -31,14 +34,13 @@ public POM_AddProductIntoCart(WebDriver driver) {
 	}
 	
   public  void enterUserName(String username) {
-	userName.sendKeys(username);
-
+	  sendKeys(userName,"UserName",username);
   }
   public  void enterPassword(String pass) {
-	password.sendKeys(pass);
+	  sendKeys(password,"Password",pass);
   }
   public  void clickOnLoginBtn() {
-	loginButton.click();
+	  click(loginButton,"Login Button");
   }
   public void clickOnSauceLabsBackpack() {
 	Sauce_Labs_Backpack.click();
